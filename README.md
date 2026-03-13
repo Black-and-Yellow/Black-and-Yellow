@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muthuraja S</h1>
-<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muthuraja+S;A+Full-Stack+Developer;An+AI+Enthusiast" alt="Typing SVG" />
+</h1>
+<h3 align="center">Building scalable applications one line of code at a time 🚀</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/muthuraja-s-6798b0314/" target="_blank">
@@ -51,9 +53,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Black-and-Yellow&show_icons=true&theme=radium" alt="Black-and-Yellow GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Black-and-Yellow&theme=radium" alt="Black-and-Yellow GitHub Streak" />
+  <a href="https://github.com/Black-and-Yellow" target="_blank">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Black-and-Yellow&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt="Black-and-Yellow GitHub Stats" />
+  </a>
+  <a href="https://github.com/Black-and-Yellow" target="_blank">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-and-Yellow&layout=compact&theme=omni&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Black-and-Yellow" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Black-and-Yellow&theme=omni&hide_border=true" alt="Black-and-Yellow GitHub Streak" />
+  </a>
 </p>
