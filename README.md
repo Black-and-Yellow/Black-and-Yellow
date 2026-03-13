@@ -33,11 +33,10 @@
 
 > *Computer Science undergraduate at IIIT Sri City building production-grade systems at the intersection of **web engineering**, **AI orchestration**, and **cloud infrastructure**.*
 
-- 🎓 **B.Tech CSE** @ Indian Institute of Information Technology, Sri City | CGPA: **7.83** | 2023–Present
+- 🎓 **B.Tech CSE** @ Indian Institute of Information Technology, Sri City | 2023–Present
 - 🚀 Currently building **LLM agent frameworks** and **full-stack cloud-deployed applications**.
 - 🧠 Deep interest in **multi-agent systems**, **async architectures**, and **distributed computing**.
 - 🌱 Exploring: Kubernetes autoscaling, OpenTelemetry tracing, and NLP pipelines at scale.
-- 🏆 **JEE Mains: 96.42 percentile**
 - 📫 Reach me at: **muthuraja.s23@iiits.in**
 
 ---
