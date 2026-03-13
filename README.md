@@ -153,17 +153,6 @@
       </ul>
       <p><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Multiprocessing-grey?style=flat-square" /></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/Black-and-Yellow/Portfolio_Website" target="_blank">Personal Portfolio Website</a></h3>
-      <a href="https://muthuraja.tech" target="_blank"><img src="https://img.shields.io/badge/Live-muthuraja.tech-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://github.com/Black-and-Yellow/Portfolio_Website" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github" /></a>
-      <p>A <strong>glassmorphism-styled, dark-mode portfolio</strong> built with vanilla HTML/CSS/JS. Features a dynamic typewriter header, scroll-reveal animations, and glowing blob backgrounds.</p>
-      <ul>
-        <li>Fully responsive – zero frameworks</li>
-        <li>Intersection Observer API for silky scroll reveals</li>
-        <li>Animated background blobs + glassmorphism cards</li>
-      </ul>
-      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
-    </td>
   </tr>
 </table>
 
